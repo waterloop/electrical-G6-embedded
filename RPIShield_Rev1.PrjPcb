@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XVUILWED
 
 [Document2]
-DocumentPath=electrical-AltiumLibraries\Libraries\Embedded\Embedded.PcbLib
+DocumentPath=..\..\..\Desktop\temppcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,10 +72,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JSWJYOTO
+DocumentUniqueId=KHNGMBUV
 
 [Document3]
-DocumentPath=electrical-AltiumLibraries\Libraries\Embedded\Embedded.SchLib
+DocumentPath=..\..\..\Desktop\tempsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,10 +89,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WRDMYSWK
+DocumentUniqueId=DIGBORIW
 
 [Document4]
-DocumentPath=electrical-AltiumLibraries\Libraries\General.PcbLib
+DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralComponents.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -106,10 +106,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JCMLCSIT
 
 [Document5]
-DocumentPath=electrical-AltiumLibraries\Libraries\General.SchLib
+DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,10 +123,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JKUKTZPN
+DocumentUniqueId=MRTSXIRM
 
 [Document6]
-DocumentPath=electrical-AltiumLibraries\Libraries\General\GeneralComponents.PcbLib
+DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralConnectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -143,24 +143,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=electrical-AltiumLibraries\Libraries\General\GeneralComponents.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MRTSXIRM
-
-[Document8]
-DocumentPath=electrical-AltiumLibraries\Libraries\General\GeneralConnectors.PcbLib
+DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,23 +158,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document9]
-DocumentPath=electrical-AltiumLibraries\Libraries\General\GeneralConnectors.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ITQRDXQM
 
 [Configuration1]
 Name=Sources
