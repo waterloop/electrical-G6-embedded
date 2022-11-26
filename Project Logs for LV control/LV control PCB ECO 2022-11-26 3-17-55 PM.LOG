@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=J19-1
+Removed Pin From Net: NetName=SOL_1 Pin=J19-2
+Removed Pin From Net: NetName=GND Pin=J20-1
+Removed Pin From Net: NetName=SOL_2 Pin=J20-2
+Removed Pin From Net: NetName=GND Pin=J21-1
+Removed Pin From Net: NetName=SOL_3 Pin=J21-2
+Removed Pin From Net: NetName=GND Pin=J22-1
+Removed Pin From Net: NetName=SOL_4 Pin=J22-2
+Added Component: Designator=J19(MOLEX0039301021)
+Added Component: Designator=J20(MOLEX0039301021)
+Added Component: Designator=J21(MOLEX0039301021)
+Added Component: Designator=J22(MOLEX0039301021)
+Added Pin To Net: NetName=SOL_1 Pin=J19-1
+Added Pin To Net: NetName=GND Pin=J19-2
+Added Pin To Net: NetName=SOL_2 Pin=J20-1
+Added Pin To Net: NetName=GND Pin=J20-2
+Added Pin To Net: NetName=SOL_3 Pin=J21-1
+Added Pin To Net: NetName=GND Pin=J21-2
+Added Pin To Net: NetName=SOL_4 Pin=J22-1
+Added Pin To Net: NetName=GND Pin=J22-2
+Added Member To Class: ClassName=Thermistors Member=Component J2 MOLEX0039301021
+Added Member To Class: ClassName=Thermistors Member=Component J3 MOLEX0039301021
+Added Member To Class: ClassName=Thermistors Member=Component J4 MOLEX0039301021
+Added Member To Class: ClassName=Thermistors Member=Component J5 MOLEX0039301021
+Added Member To Class: ClassName=Thermistors Member=Component J6 MOLEX0039301021
+Added Member To Class: ClassName=Thermistors Member=Component J7 MOLEX0039301021
+Added Member To Class: ClassName=Thermistors Member=Component J8 MOLEX0039301021
+Added Member To Class: ClassName=Thermistors Member=Component J9 MOLEX0039301021
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors

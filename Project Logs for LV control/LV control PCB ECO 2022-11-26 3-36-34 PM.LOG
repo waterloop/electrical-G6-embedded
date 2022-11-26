@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3.3V Pin=J23-11
+Removed Pin From Net: NetName=3.3V Pin=J23-12
+Added Pin To Net: NetName=3.3V Pin=J23-7
+Added Pin To Net: NetName=3.3V Pin=J23-8
+Added Pin To Net: NetName=12V Pin=J23-11
+Added Pin To Net: NetName=12V Pin=J23-12
+Added Net: Name=12V
+Added Member To Class: ClassName=Braking Member=Component J19 MOLEX0039301021
+Added Member To Class: ClassName=Braking Member=Component J20 MOLEX0039301021
+Added Member To Class: ClassName=Braking Member=Component J21 MOLEX0039301021
+Added Member To Class: ClassName=Braking Member=Component J22 MOLEX0039301021
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors

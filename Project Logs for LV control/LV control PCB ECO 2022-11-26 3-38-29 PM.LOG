@@ -1,0 +1,4 @@
+Added Component: Designator=J24(MOLEX0039301021)
+Added Pin To Net: NetName=22.1V Pin=J24-1
+Added Pin To Net: NetName=GND Pin=J24-2
+Added Member To Class: ClassName=Braking Member=Component J24 MOLEX0039301021
