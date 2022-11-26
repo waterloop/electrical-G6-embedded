@@ -1,0 +1,16 @@
+Added Component: Designator=J23(G431 HEADER (POWER CONNECTOR))
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Sullins Connector Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PPPC062LJBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Name"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "S5559-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J23-1
+Added Pin To Net: NetName=GND Pin=J23-2
+Added Pin To Net: NetName=GND Pin=J23-3
+Added Pin To Net: NetName=GND Pin=J23-4
+Added Pin To Net: NetName=GND Pin=J23-5
+Added Pin To Net: NetName=GND Pin=J23-6
+Added Pin To Net: NetName=5V Pin=J23-9
+Added Pin To Net: NetName=5V Pin=J23-10
+Added Pin To Net: NetName=3.3V Pin=J23-11
+Added Pin To Net: NetName=3.3V Pin=J23-12
+Added Member To Class: ClassName=MCU_Platform Member=Component J23 G431 POWER

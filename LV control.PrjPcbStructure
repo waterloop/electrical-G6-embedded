@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=Braking.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Braking.SchDoc|FileName=LED_Driver.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Braking.SchDoc|FileName=MCU_Platform.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Braking.SchDoc|FileName=PressureSensors.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Braking.SchDoc|FileName=Thermistors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Braking.SchDoc|FileName=PressureSensors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Braking.SchDoc|FileName=Thermistors.SchDoc|SheetNumber=3

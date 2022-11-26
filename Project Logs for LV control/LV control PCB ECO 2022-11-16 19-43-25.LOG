@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=22.1V Pin=C6-2
+Removed Pin From Net: NetName=22.1V Pin=R35-1
+Removed Pin From Net: NetName=SOL_4 Pin=R35-2
+Removed Member From Class: ClassName=Braking Member=C6
+Change Component Footprint: Designator=R32 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R33 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R34 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change Component Footprint: Designator=R35 Old Footprint=0603 - Resistor New Footprint=0805 - Resistor
+Change component parameters: Designator = "R32" ("R32"); Footprint = "0603 - Resistor"; UniqueID = "\ZQMNCPZL" ("\ZQMNCPZL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R33" ("R33"); Footprint = "0603 - Resistor"; UniqueID = "\ZJYLUETU" ("\ZJYLUETU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R34" ("R34"); Footprint = "0603 - Resistor"; UniqueID = "\SIQIIEYR" ("\SIQIIEYR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "0603 - Resistor"; UniqueID = "\QOJWHWTQ" ("\QOJWHWTQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SOL_4 Pin=R35-1
+Added Pin To Net: NetName=22.1V Pin=R35-2
