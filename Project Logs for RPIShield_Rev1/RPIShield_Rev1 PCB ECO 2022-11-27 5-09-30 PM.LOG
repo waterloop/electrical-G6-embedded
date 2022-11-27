@@ -1,0 +1,123 @@
+Added Component: Designator=*1(MTJ-88ARX1-FSM-LV)
+Added Component: Designator=*(MTJ-88ARX1-FSM-LV)
+Added Component: Designator=J1(MCP2517FD)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP2517FD-External-CAN-FD-Controller-with-SPI-Interface-20005688B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCP2517FDT-H/SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "MCP2517FDT-H/SLTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J3(K7805-3AR3)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.mornsun-power.com/html/pdf/K7803-3AR3.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "Mornsun America, LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "K7805-3AR3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2725-K7805-3AR3-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P1(694106301002)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.we-online.com/katalog/datasheet/6941xx301002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "694106301002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-5930-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TJA1051T/3,118 - duplicate)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nxp.com/docs/en/data-sheet/TJA1051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TJA1051T/3,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "568-8684-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U3(MCP1755ST)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/25160a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=J1-14
+Added Pin To Net: NetName=+3.3V Pin=U1-5
+Added Pin To Net: NetName=+3.3V Pin=U3-3
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=J3-10
+Added Pin To Net: NetName=+5V Pin=J3-11
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U3-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=+21.1V Pin=J3-2
+Added Pin To Net: NetName=+21.1V Pin=J3-3
+Added Pin To Net: NetName=+21.1V Pin=J3-4
+Added Pin To Net: NetName=+21.1V Pin=P1-1
+Added Net: Name=+21.1V
+Added Pin To Net: NetName=\I\N\T\ Pin=J1-4
+Added Net: Name=\I\N\T\
+Added Pin To Net: NetName=C\S\ Pin=J1-13
+Added Net: Name=C\S\
+Added Pin To Net: NetName=CAN_G_LED Pin=*-11
+Added Pin To Net: NetName=CAN_G_LED Pin=*1-11
+Added Pin To Net: NetName=CAN_G_LED Pin=J1-8
+Added Net: Name=CAN_G_LED
+Added Pin To Net: NetName=CAN_N Pin=*-2
+Added Pin To Net: NetName=CAN_N Pin=*1-2
+Added Pin To Net: NetName=CAN_N Pin=U1-6
+Added Net: Name=CAN_N
+Added Pin To Net: NetName=CAN_P Pin=*-1
+Added Pin To Net: NetName=CAN_P Pin=*1-1
+Added Pin To Net: NetName=CAN_P Pin=U1-7
+Added Net: Name=CAN_P
+Added Pin To Net: NetName=CAN_Y_LED Pin=*-9
+Added Pin To Net: NetName=CAN_Y_LED Pin=*1-9
+Added Pin To Net: NetName=CAN_Y_LED Pin=J1-9
+Added Net: Name=CAN_Y_LED
+Added Pin To Net: NetName=CANRX Pin=J1-2
+Added Pin To Net: NetName=CANRX Pin=U1-4
+Added Net: Name=CANRX
+Added Pin To Net: NetName=CANTX Pin=J1-1
+Added Pin To Net: NetName=CANTX Pin=U1-1
+Added Net: Name=CANTX
+Added Pin To Net: NetName=CLKOUT Pin=J1-3
+Added Net: Name=CLKOUT
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=GND Pin=*-6
+Added Pin To Net: NetName=GND Pin=*-7
+Added Pin To Net: NetName=GND Pin=*-8
+Added Pin To Net: NetName=GND Pin=*1-5
+Added Pin To Net: NetName=GND Pin=*1-6
+Added Pin To Net: NetName=GND Pin=*1-7
+Added Pin To Net: NetName=GND Pin=*1-8
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=GND Pin=J3-8
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=J1-12
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-11
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net*1_10 Pin=*1-10
+Added Net: Name=Net*1_10
+Added Pin To Net: NetName=Net*1_12 Pin=*1-12
+Added Net: Name=Net*1_12
+Added Pin To Net: NetName=Net*1_MH1 Pin=*1-MH1
+Added Pin To Net: NetName=Net*1_MH1 Pin=*1-MH2
+Added Net: Name=Net*1_MH1
+Added Pin To Net: NetName=Net*_10 Pin=*-10
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Net: Name=Net*_12
+Added Pin To Net: NetName=Net*_MH1 Pin=*-MH1
+Added Pin To Net: NetName=Net*_MH1 Pin=*-MH2
+Added Net: Name=Net*_MH1
+Added Pin To Net: NetName=OSCIN Pin=J1-6
+Added Net: Name=OSCIN
+Added Pin To Net: NetName=OSCOUT Pin=J1-5
+Added Net: Name=OSCOUT
+Added Pin To Net: NetName=SCK Pin=J1-10
+Added Net: Name=SCK
+Added Pin To Net: NetName=STANDBY Pin=U1-8
+Added Net: Name=STANDBY
+Added Class: Name=RPIShield_Rev1
+Added Differential Pair: Name=CAN
+Added Room: Name=RPIShield_Rev1
