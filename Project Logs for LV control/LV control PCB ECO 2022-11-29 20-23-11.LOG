@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SOL_4 Pin=TP8-1
+Removed Pin From Net: NetName=SOL_3 Pin=TP9-1
+Removed Pin From Net: NetName=SOL_2 Pin=TP10-1
+Removed Pin From Net: NetName=SOL_1 Pin=TP11-1
+Removed Member From Class: ClassName=Braking Member=TP8
+Removed Member From Class: ClassName=Braking Member=TP9
+Removed Member From Class: ClassName=Braking Member=TP10
+Removed Member From Class: ClassName=Braking Member=TP11
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors
