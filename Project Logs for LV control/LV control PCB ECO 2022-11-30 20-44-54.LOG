@@ -1,0 +1,117 @@
+Added Component: Designator=C8(0603 - Capacitor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0805 - Resistor)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=U2(MC74HC4051ADR2G)
+Add component (AddParameter): Name = "Manufacturer Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC74HC4051ADR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Name"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "MC74HC4051ADR2GOSTR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3.3V Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=TINPUT0 Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=R3-1
+Added Pin To Net: NetName=TINPUT1 Pin=R3-2
+Added Pin To Net: NetName=3.3V Pin=R4-1
+Added Pin To Net: NetName=TINPUT2 Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R5-1
+Added Pin To Net: NetName=TINPUT3 Pin=R5-2
+Added Pin To Net: NetName=3.3V Pin=R8-1
+Added Pin To Net: NetName=TINPUT4 Pin=R8-2
+Added Pin To Net: NetName=3.3V Pin=R9-1
+Added Pin To Net: NetName=TINPUT5 Pin=R9-2
+Added Pin To Net: NetName=3.3V Pin=R10-1
+Added Pin To Net: NetName=TINPUT6 Pin=R10-2
+Added Pin To Net: NetName=3.3V Pin=R11-1
+Added Pin To Net: NetName=TINPUT7 Pin=R11-2
+Added Pin To Net: NetName=TINPUT4 Pin=U2-1
+Added Pin To Net: NetName=TINPUT6 Pin=U2-2
+Added Pin To Net: NetName=T_OUT Pin=U2-3
+Added Pin To Net: NetName=TINPUT7 Pin=U2-4
+Added Pin To Net: NetName=TINPUT5 Pin=U2-5
+Added Pin To Net: NetName=EN_T Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=T_C Pin=U2-9
+Added Pin To Net: NetName=T_B Pin=U2-10
+Added Pin To Net: NetName=T_A Pin=U2-11
+Added Pin To Net: NetName=TINPUT3 Pin=U2-12
+Added Pin To Net: NetName=TINPUT0 Pin=U2-13
+Added Pin To Net: NetName=TINPUT1 Pin=U2-14
+Added Pin To Net: NetName=TINPUT2 Pin=U2-15
+Added Pin To Net: NetName=3.3V Pin=U2-16
+Added Member To Class: ClassName=Thermistors Member=Component C8 Capacitor - Nonpolarized
+Added Member To Class: ClassName=Thermistors Member=Component R2 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component R3 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component R4 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component R5 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component R8 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component R9 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component R10 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component R11 Resistor
+Added Member To Class: ClassName=Thermistors Member=Component U2 MC74HC4051ADR2G
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors
