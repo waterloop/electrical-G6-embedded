@@ -58,40 +58,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XVUILWED
 
 [Document2]
-DocumentPath=..\..\..\Desktop\temppcb.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KHNGMBUV
-
-[Document3]
-DocumentPath=..\..\..\Desktop\tempsch.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DIGBORIW
-
-[Document4]
 DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralComponents.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JCMLCSIT
 
-[Document5]
+[Document3]
 DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralComponents.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRTSXIRM
 
-[Document6]
+[Document4]
 DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralConnectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TAJKIPBO
 
-[Document7]
+[Document5]
 DocumentPath=..\..\electrical-AltiumLibraries\Libraries\General\GeneralConnectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITQRDXQM
 
-[Document8]
+[Document6]
 DocumentPath=RPIShield_Rev1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -434,7 +400,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP1B701E (HP DeskJet 2700 series)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files

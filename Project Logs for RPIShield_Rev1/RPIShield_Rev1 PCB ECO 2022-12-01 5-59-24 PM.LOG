@@ -1,0 +1,19 @@
+Added Component: Designator=P2(HDR2X20)
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=STANDBY Pin=P2-8
+Added Pin To Net: NetName=MOSI Pin=P2-10
+Added Pin To Net: NetName=MISO Pin=P2-11
+Added Pin To Net: NetName=SCK Pin=P2-12
+Added Pin To Net: NetName=GND Pin=P2-13
+Added Pin To Net: NetName=GND Pin=P2-20
+Added Pin To Net: NetName=CLKOUT Pin=P2-21
+Added Pin To Net: NetName=GND Pin=P2-24
+Added Pin To Net: NetName=GND Pin=P2-26
+Added Pin To Net: NetName=C\S\ Pin=P2-29
+Added Pin To Net: NetName=\I\N\T\ Pin=P2-30
+Added Pin To Net: NetName=GND Pin=P2-31
+Added Pin To Net: NetName=GND Pin=P2-34
+Added Pin To Net: NetName=GND Pin=P2-38
+Added Pin To Net: NetName=+5V Pin=P2-39
+Added Pin To Net: NetName=+5V Pin=P2-40
+Added Member To Class: ClassName=RPIShield_Rev1 Member=Component P2 2x20 Header
