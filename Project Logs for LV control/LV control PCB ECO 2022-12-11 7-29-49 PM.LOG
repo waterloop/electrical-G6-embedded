@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=TINPUT4 Pin=U2-1
+Removed Pin From Net: NetName=TINPUT6 Pin=U2-2
+Removed Pin From Net: NetName=TINPUT7 Pin=U2-4
+Removed Pin From Net: NetName=TINPUT5 Pin=U2-5
+Removed Pin From Net: NetName=TINPUT3 Pin=U2-12
+Removed Pin From Net: NetName=TINPUT0 Pin=U2-13
+Removed Pin From Net: NetName=TINPUT1 Pin=U2-14
+Removed Pin From Net: NetName=TINPUT2 Pin=U2-15
+Added Pin To Net: NetName=TINPUT3 Pin=U2-1
+Added Pin To Net: NetName=TINPUT2 Pin=U2-2
+Added Pin To Net: NetName=TINPUT1 Pin=U2-4
+Added Pin To Net: NetName=TINPUT0 Pin=U2-5
+Added Pin To Net: NetName=TINPUT4 Pin=U2-12
+Added Pin To Net: NetName=TINPUT5 Pin=U2-13
+Added Pin To Net: NetName=TINPUT6 Pin=U2-14
+Added Pin To Net: NetName=TINPUT7 Pin=U2-15
+Added Member To Class: ClassName=LED_Driver Member=Component U7 NCR321ZX
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors

@@ -1,0 +1,9 @@
+Added Component: Designator=TP8(Test Point)
+Added Component: Designator=TP9(Test Point)
+Added Component: Designator=TP10(Test Point)
+Added Pin To Net: NetName=3.3V Pin=TP8-1
+Added Pin To Net: NetName=5V Pin=TP9-1
+Added Pin To Net: NetName=12V Pin=TP10-1
+Added Member To Class: ClassName=MCU_Platform Member=Component TP8 Test Point
+Added Member To Class: ClassName=MCU_Platform Member=Component TP9 Test Point
+Added Member To Class: ClassName=MCU_Platform Member=Component TP10 Test Point
