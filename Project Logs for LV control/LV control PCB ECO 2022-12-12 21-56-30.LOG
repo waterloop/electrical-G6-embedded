@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=GND NewDesignator=TP11
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=TP11 Old Footprint=Test Point New Footprint=Test Point - 5002
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors

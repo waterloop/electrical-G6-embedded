@@ -1,0 +1,8 @@
+Added Component: Designator=TP11(Test Point)
+Added Pin To Net: NetName=GND Pin=TP11-1
+Added Member To Class: ClassName=MCU_Platform Member=Component TP11 Test Point
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors
