@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=GND NewDesignator=TP11
+Change Component Designator: OldDesignator=TP1 NewDesignator=TSENS_SW_OUT
+Change Component Designator: OldDesignator=TP2 NewDesignator=PSENSOR_MCU
+Change Component Designator: OldDesignator=TP3 NewDesignator=PSENS_SW_OUT
+Change Component Designator: OldDesignator=TP4 NewDesignator=TSENSOR_MCU
+Change Component Designator: OldDesignator=TP5 NewDesignator=LED_1_OUT
+Change Component Designator: OldDesignator=TP6 NewDesignator=LED_2_OUT
+Change Component Designator: OldDesignator=TP7 NewDesignator=LED_3_OUT
+Change Component Designator: OldDesignator=TP8 NewDesignator=3.3V
+Change Component Designator: OldDesignator=TP9 NewDesignator=5V
+Change Component Designator: OldDesignator=TP10 NewDesignator=12V
+Added Member To Class: ClassName=MCU_Platform Member=Component TP11 Test Point
+Added Room: Name=Braking
+Added Room: Name=LED_Driver
+Added Room: Name=MCU_Platform
+Added Room: Name=PressureSensors
+Added Room: Name=Thermistors
